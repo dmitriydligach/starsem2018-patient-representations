@@ -1,4 +1,4 @@
-# Code for Dligach and Miller, 2018 *SEM paper *Learning Patient Representations from Text*
+### Code for Dligach and Miller, 2018 *SEM paper *Learning Patient Representations from Text*
 
 To train a billing code prediction model:
 
