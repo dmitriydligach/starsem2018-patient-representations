@@ -1,0 +1,26 @@
+<diseases source="intuitive">
+  <disease name="flu">
+    <doc id="41" judgment="Q"/>
+    <doc id="42" judgment="N"/>
+    <doc id="43" judgment="Y"/>
+    <doc id="44" judgment="Q"/>
+    <doc id="45" judgment="U"/>
+    <doc id="46" judgment="N"/>
+    <doc id="47" judgment="Y"/>
+    <doc id="48" judgment="N"/>
+    <doc id="49" judgment="Q"/>
+    <doc id="50" judgment="Y"/>
+  </disease>
+  <disease name="cold">
+    <doc id="41" judgment="Y"/>
+    <doc id="42" judgment="U"/>
+    <doc id="43" judgment="N"/>
+    <doc id="44" judgment="Q"/>
+    <doc id="45" judgment="N"/>
+    <doc id="46" judgment="U"/>
+    <doc id="47" judgment="Y"/>
+    <doc id="48" judgment="N"/>
+    <doc id="49" judgment="Q"/>
+    <doc id="50" judgment="Y"/>
+  </disease>
+</diseases>
